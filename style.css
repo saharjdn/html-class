@@ -1,0 +1,54 @@
+h3,table{
+    color:red;
+    background-color: black;
+    padding: 5px;
+}
+h3,p{
+    color: blue;
+    background-color: yellow;
+    padding: 10px;
+    font-family: fantasy , Arial;
+    font-variant: small-caps;
+    font-size: xx-large;
+    line-height: 110%;
+}
+div{
+    display: inline-block;
+}
+h1{
+    background-color: black;
+    color: blueviolet;
+    border: solid red;
+    border-width: 5px 15px 25px;
+    border-radius: 20px;
+    padding: 5% ;
+    margin: 5px 10px 15px 20px;
+    font-size: 6rem;
+}
+a{
+    display: block;
+    font-weight: bold;
+    color: rgb(212, 212, 219);
+    background-color: brown;
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+    text-decoration: double;
+}
+a:hover{
+    color: aquamarine;
+    background-color: black;
+}
+ol{
+    list-style-type: lower-greek;
+}
+ul{
+    list-style-type: square;
+}
+#twoul{
+    list-style-type: circle;
+}
+.onel{
+    list-style-type: disc;
+    color: brown;
+}
